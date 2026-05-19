@@ -1,6 +1,7 @@
  # DA6401 Assignment-3 
 
 
+This  repository implements the Transformer model for English-to-German translation and analyzes key components such as learning rate scheduling, scaled attention, and attention head specialization using Weights & Biases.
 # Neha Rana (MA24M018)
 # M.Tech (Industrial Mathematics and Scientific Computing) IIT Madras
 
